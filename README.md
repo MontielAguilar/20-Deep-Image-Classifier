@@ -1,13 +1,13 @@
-# Image Classification Project with VGG16
+# Image Classification Project with VGG16.
 
 This repository contains an image classification project using the VGG16 architecture with Keras and TensorFlow. The model is trained to distinguish between images of cats and dogs.
 
-## Project Structure
+## Project Structure.
 
 - **`app.py`**: Contains the main code that defines, compiles, and trains the VGG16 model.
 - **`requirements.txt`**: List of dependencies needed to run the project.
 
-## Requirements
+## Requirements.
 
 Make sure to have all dependencies installed. You can do this by executing the following command:
 
